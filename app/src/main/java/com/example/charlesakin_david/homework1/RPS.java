@@ -77,5 +77,6 @@ public class RPS extends AppCompatActivity {
 
         TextView pointView = (TextView) findViewById(R.id.points);
         pointView.setText("Points: " + points);
+        
     }
 }
